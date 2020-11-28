@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9115b3b-20bd-40ea-9a24-ec0f302c2e25" name="Default Changelist" comment="" />
+    <list default="true" id="b9115b3b-20bd-40ea-9a24-ec0f302c2e25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resource/oni.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_view.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +39,7 @@
       <recent name="C:\Users\ReZauL ALaM oNi\PycharmProjects\OpenCVPython\resource" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.video_view (1)">
     <configuration name="image_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenCVPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,8 +61,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="video_view (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OpenCVPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ReZauL ALaM oNi\PycharmProjects\OpenCVPython\video_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.video_view (1)" />
+        <item itemvalue="Python.video_view" />
         <item itemvalue="Python.image_view" />
       </list>
     </recent_temporary>
@@ -88,22 +137,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1606595540512">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1606597961383">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606595540512" />
-    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1606595540512">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606597961383" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1606597961382">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606595540512" />
-    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1606595540511">
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606597961382" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1606597961382">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606595540511" />
-    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1606595540512">
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606597961382" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1606597961382">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606595540512" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1606597961382" />
     <state x="1827" y="168" key="SettingsEditor" timestamp="1606594808480">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
